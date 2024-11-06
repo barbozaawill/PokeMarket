@@ -1,0 +1,70 @@
+.modal-content {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.modal-header {
+    background-color: #343a40;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.stat-list,
+.move-list,
+.evolution-list {
+    list-style: none;
+    padding: 0;
+}
+
+.stat-list li,
+.move-list li,
+.evolution-list li {
+    background-color: #e9ecef;
+    margin: 5px 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.stat-bar {
+    height: 8px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.stat-hp {
+    background-color: #ff5959;
+}
+
+.stat-attack {
+    background-color: #f5ac78;
+}
+
+.stat-defense {
+    background-color: #fae078;
+}
+
+.stat-special-attack {
+    background-color: #9db7f5;
+}
+
+.stat-special-defense {
+    background-color: #a7db8d;
+}
+
+.stat-speed {
+    background-color: #fa92b2;
+}
+
+.pokemon-image {
+    max-width: 200px;
+}
+
+.evolution-img {
+    max-width: 100px;
+}
+
+.badge {
+    margin-right: 5px;
+}
