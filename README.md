@@ -6,3 +6,6 @@ This project is a **sales website** inspired by the **Pokémon** universe. It’
 - **Interactive** and **engaging design** inspired by Pokémon.
 - Dynamic data display, utilizing the [**PokéAPI**](https://pokeapi.co/) to retrieve Pokémon information.
 - User-friendly interface with **responsive design** for an enjoyable experience.
+
+Feel free to explore, give feedback, or suggest new features!
+
